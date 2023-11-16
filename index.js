@@ -47,4 +47,4 @@ setInterval(() => {
   freelancers.push(generateRandomFreelancer());
   renderFreelancers();
   calculateAveragePrice();
-}, 2000); // Every 3000 milliseconds (3 seconds)
+}, 2000); // Every 2000 milliseconds (2 seconds)
